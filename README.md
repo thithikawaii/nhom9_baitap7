@@ -1,6 +1,6 @@
 # NHÓM 9 - BÀI TẬP 6
 
-## Buggy PHP Lab – Quản trị nhà sách
+## PHP Lab – Quản trị nhà sách
 
 Project PHP mini mô phỏng **trang quản trị nhà sách trong trường** để sinh viên thực hành tìm và sửa lỗi trong code PHP.
 
