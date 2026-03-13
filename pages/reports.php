@@ -4,8 +4,7 @@ $reportRows = [];
 $totalsByCategory = [];
 
 foreach ($products as $product) {
-    $category = $product['name'];
-
+    $category = $product['category']; //Chỉnh thành 'category' để hợp với logic
     if (!isset($totalsByCategory[$category])) {
         $totalsByCategory[$category] = 0;
     }
